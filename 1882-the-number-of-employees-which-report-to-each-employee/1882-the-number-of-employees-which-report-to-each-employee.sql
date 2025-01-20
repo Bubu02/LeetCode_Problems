@@ -8,7 +8,6 @@ JOIN Employees e2
 ON e1.employee_id=e2.reports_to
 GROUP BY e1.employee_id,e1.name
 ORDER BY e1.employee_id
--- HAVING e1.reports_to<>'null'
 
 -- SELECT *
 -- FROM Employees e
