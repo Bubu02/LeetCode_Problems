@@ -6,6 +6,4 @@ def valid_emails(users: pd.DataFrame) -> pd.DataFrame:
 
     # Filter the DataFrame to get rows with valid email addresses
     users = users[users['mail'].str.contains(email_pattern, regex=True)]
-
-
     return users
