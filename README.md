@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Bubu02/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [1894-merge-strings-alternately](https://github.com/Bubu02/LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Bubu02/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Bubu02/LeetCode_Problems/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Bubu02/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Bubu02/LeetCode_Problems/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
