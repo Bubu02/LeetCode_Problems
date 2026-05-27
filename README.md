@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bubu02/LeetCode_Problems/tree/master/0013-roman-to-integer) |
+| [0383-ransom-note](https://github.com/Bubu02/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [1894-merge-strings-alternately](https://github.com/Bubu02/LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bubu02/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Bubu02/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bubu02/LeetCode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/Bubu02/LeetCode_Problems/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bubu02/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Bubu02/LeetCode_Problems/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
