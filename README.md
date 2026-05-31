@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Bubu02/LeetCode_Problems/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bubu02/LeetCode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0407-trapping-rain-water-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Bubu02/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bubu02/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bubu02/LeetCode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Bubu02/LeetCode_Problems/tree/master/0383-ransom-note) |
+| [1386-cinema-seat-allocation](https://github.com/Bubu02/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bubu02/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Bubu02/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
 ## Counting Sort
 |  |
 | ------- |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bubu02/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Bubu02/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
