@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bubu02/LeetCode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0407-trapping-rain-water-ii) |
 ## Matrix
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bubu02/LeetCode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Bubu02/LeetCode_Problems/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -177,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Bubu02/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bubu02/LeetCode_Problems/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bubu02/LeetCode_Problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
