@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Bubu02/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Bubu02/LeetCode_Problems/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Bubu02/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Bubu02/LeetCode_Problems/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bubu02/LeetCode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0407-trapping-rain-water-ii) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bubu02/LeetCode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Bubu02/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
