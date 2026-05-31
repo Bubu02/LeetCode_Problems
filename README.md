@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bubu02/LeetCode_Problems/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Bubu02/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/Bubu02/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [1894-merge-strings-alternately](https://github.com/Bubu02/LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
 ## Sorting
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bubu02/LeetCode_Problems/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Bubu02/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
