@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Bubu02/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Bubu02/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bubu02/LeetCode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bubu02/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bubu02/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Bubu02/LeetCode_Problems/tree/master/0274-h-index) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bubu02/LeetCode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Bubu02/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Bubu02/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bubu02/LeetCode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Bubu02/LeetCode_Problems/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Counting Sort
 |  |
