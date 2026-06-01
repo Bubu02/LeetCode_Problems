@@ -1,15 +1,15 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        paired = {')':'(', '}':'{',']':'['}
-        answer = []
+        paired = {')':'(', '}':'{', ']':'['}
+        opened = []
         for char in s:
             if char in paired.values():
-                answer.append(char)
+                opened.append(char)
             elif char in paired:
-                if answer:
-                    if answer.pop() != paired[char]:
+                if opened:
+                    if paired[char] != opened.pop():
                         return False
                 else:
                     return False
-        return False if len(answer) > 0 else True
+        return True if len(opened) == 0 else False
         
