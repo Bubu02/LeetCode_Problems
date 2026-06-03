@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Bubu02/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Bubu02/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bubu02/LeetCode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bubu02/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Bubu02/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [1894-merge-strings-alternately](https://github.com/Bubu02/LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bubu02/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Bubu02/LeetCode_Problems/tree/master/0274-h-index) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bubu02/LeetCode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Bubu02/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bubu02/LeetCode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Bubu02/LeetCode_Problems/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -220,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bubu02/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 <!---LeetCode Topics End-->
