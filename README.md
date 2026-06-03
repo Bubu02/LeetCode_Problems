@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bubu02/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bubu02/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bubu02/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0045-jump-game-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bubu02/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Bubu02/LeetCode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Bubu02/LeetCode_Problems/tree/master/0169-majority-element) |
 ## Counting
@@ -227,5 +229,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bubu02/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 <!---LeetCode Topics End-->
