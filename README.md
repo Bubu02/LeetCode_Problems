@@ -158,12 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bubu02/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Bubu02/LeetCode_Problems/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bubu02/LeetCode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bubu02/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Bubu02/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bubu02/LeetCode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bubu02/LeetCode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bubu02/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bubu02/LeetCode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
