@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bubu02/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Bubu02/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Bubu02/LeetCode_Problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Bubu02/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bubu02/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Bubu02/LeetCode_Problems/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0407-trapping-rain-water-ii) |
 ## Two Pointers
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bubu02/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bubu02/LeetCode_Problems/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/Bubu02/LeetCode_Problems/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bubu02/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Bubu02/LeetCode_Problems/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bubu02/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bubu02/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Bubu02/LeetCode_Problems/tree/master/0085-maximal-rectangle) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bubu02/LeetCode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Tree
@@ -262,4 +266,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bubu02/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Bubu02/LeetCode_Problems/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
