@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Bubu02/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bubu02/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bubu02/LeetCode_Problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Bubu02/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Bubu02/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Bubu02/LeetCode_Problems/tree/master/0055-jump-game) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bubu02/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bubu02/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bubu02/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Bubu02/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Bubu02/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Bubu02/LeetCode_Problems/tree/master/0189-rotate-array) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Bubu02/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bubu02/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bubu02/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bubu02/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Bubu02/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bubu02/LeetCode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Tree
@@ -254,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Bubu02/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Bubu02/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
