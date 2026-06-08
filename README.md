@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bubu02/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Bubu02/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Bubu02/LeetCode_Problems/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Bubu02/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bubu02/LeetCode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Bubu02/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bubu02/LeetCode_Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Bubu02/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/0407-trapping-rain-water-ii) |
 ## Matrix
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bubu02/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bubu02/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Bubu02/LeetCode_Problems/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Bubu02/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bubu02/LeetCode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bubu02/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Bubu02/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Bubu02/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Bubu02/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bubu02/LeetCode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Bubu02/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Bubu02/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -156,10 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Bubu02/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Bubu02/LeetCode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Bubu02/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Bubu02/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bubu02/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Bubu02/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Bubu02/LeetCode_Problems/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
@@ -267,4 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bubu02/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Bubu02/LeetCode_Problems/tree/master/0085-maximal-rectangle) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bubu02/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bubu02/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
