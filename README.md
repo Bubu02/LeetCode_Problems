@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bubu02/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Bubu02/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [1894-merge-strings-alternately](https://github.com/Bubu02/LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bubu02/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bubu02/LeetCode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bubu02/LeetCode_Problems/tree/master/0023-merge-k-sorted-lists) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bubu02/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Bubu02/LeetCode_Problems/tree/master/0085-maximal-rectangle) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bubu02/LeetCode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bubu02/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
