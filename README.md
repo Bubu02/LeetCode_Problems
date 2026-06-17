@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bubu02/LeetCode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/Bubu02/LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
 | [3612-process-string-with-special-operations-i](https://github.com/Bubu02/LeetCode_Problems/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/3614-process-string-with-special-operations-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bubu02/LeetCode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/Bubu02/LeetCode_Problems/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/3614-process-string-with-special-operations-ii) |
 ## Sliding Window
 |  |
 | ------- |
