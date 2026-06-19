@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Bubu02/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bubu02/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1386-cinema-seat-allocation](https://github.com/Bubu02/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
+| [1732-find-the-highest-altitude](https://github.com/Bubu02/LeetCode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bubu02/LeetCode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bubu02/LeetCode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bubu02/LeetCode_Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Bubu02/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Bubu02/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bubu02/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/Bubu02/LeetCode_Problems/tree/master/1732-find-the-highest-altitude) |
 ## Bit Manipulation
 |  |
 | ------- |
